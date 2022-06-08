@@ -2,27 +2,27 @@
 
 @font-face {
     font-family: "bubble";
-    src: url(flexboxPage/fonts/PLANB___.TTF);
+    src: url(../flexboxPage/fonts/PLANB___.TTF);
 }
 
 @font-face {
     font-family: "y2k";
-    src: url(flexboxPage/fonts/PLANK___.TTF);
+    src: url(../flexboxPage/fonts/PLANK___.TTF);
 }
 
 @font-face {
     font-family: "ss41";
-    src: url(flexboxPage/fonts/SS41.ttf);
+    src: url(../flexboxPage/fonts/SS41.ttf);
 }
 
 @font-face {
     font-family: "acid";
-    src: url(flexboxPage/fonts/Acidic.TTF);
+    src: url(../flexboxPage/fonts/Acidic.TTF);
 }
 
 @font-face {
     font-family: "dragrace";
-    src: url(flexboxPage/fonts/62DRAGZ.otf));
+    src: url(../flexboxPage/fonts/62DRAGZ.otf));
 }
 
 
